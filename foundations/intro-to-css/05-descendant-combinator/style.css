@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+/* Type selector version of solution
+div p {
+    background-color: yellow;
+    color: hsl(0, 81%, 49%);
+    font-size: 20px;
+    text-align: center;
+} */
+
+.container .text {
+    background-color: yellow;
+    color: hsl(0, 81%, 49%);
+    font-size: 20px;
+    text-align: center;
+}
